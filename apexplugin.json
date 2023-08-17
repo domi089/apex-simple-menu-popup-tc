@@ -2,7 +2,7 @@
     "name": "Simple Menu Popup",
     "version": "1.0",
     "description": "Simple Menu Popup as Template Component. Possible to use as IR Column or as Region with 1 Dummy Row.",
-    "keywords": ["Menu Popup"],
+    "keywords": ["Menu Popup","Hambuger","Menu"],
     "homepage": "https://github.com/domi089/apex-simple-menu-popup-tc",
     "bugs": {
       "url": "https://github.com/domi089/apex-simple-menu-popup-tc/issues",
@@ -31,4 +31,4 @@
         }
       }
     }
-  }
+}
