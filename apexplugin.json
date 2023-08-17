@@ -27,7 +27,7 @@
           "internalName": "COM.APEX-DEVELOPER.SIMPLE.MENU.POPUP",
           "type": "template component",
           "demo": "https://apex.oracle.com/pls/apex/r/apex-developer_com/template-component-menu-popup/tc-simple-menu-popup",
-          "previewImage": ""
+          "previewImage": "https://github.com/domi089/apex-simple-menu-popup-tc/blob/main/assets/as-report-column.png?raw=true"
         }
       }
     }
